@@ -1,10 +1,10 @@
-Johnny Coder
+Mikle Biaspalau
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+NewNation street            mikle.pastorBe@gmail.com
+Minsk                                vk.com/pastorbe
+Belarus                                +375297441406
 -------------------     ----------------------------
 
 Education
